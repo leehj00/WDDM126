@@ -14,7 +14,7 @@ figcaption{
     padding-right: 20px;
 }
 div {
-    margin-left: 970px;
+    margin-left: 990px;
     padding-top: 10px; 
 }
 p2 {
@@ -26,6 +26,11 @@ p2 {
     color:darkslategray;
 
 }
-Akeria {
-    margin-left: 990px;
+p3 { 
+   margin-left: 990px;
+    font-family: "Lexend ", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color:darkslategray;
 }
