@@ -19,10 +19,13 @@ div {
 }
 p2 {
     margin-left: 990px;
-    font-family: "Lexend", sans-serif;
+    font-family: "Lexend ", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
     color:darkslategray;
 
+}
+Akeria {
+    margin-left: 990px;
 }
