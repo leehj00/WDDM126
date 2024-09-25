@@ -13,21 +13,23 @@ figcaption{
     padding-left: 20px;
     padding-right: 20px;
 }
+
 div {
-    margin-left: 990px;
-    padding-top: 10px; 
+        width: 400px;
+        margin:auto;
+        
 }
+ 
 p2 {
-    margin-left: 990px;
     font-family: "Lexend ", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
     color:darkslategray;
+    text-align: center;
 
 }
 p3 { 
-   margin-left: 990px;
     font-family: "Lexend ", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
