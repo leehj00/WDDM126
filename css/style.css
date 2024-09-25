@@ -46,3 +46,11 @@ footer {
     background-color:darkslateblue;
     margin-bottom: auto;
 }
+
+.media {
+    text-align: center;
+    margin: 30px auto;
+    padding: 10px;
+    border-style : dotted;
+    background-color: plum;
+}
