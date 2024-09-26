@@ -73,7 +73,14 @@ footer {
     padding: 25px;
     margin: 20px auto;
     border-style: hidden;
-    background-color: firebrick;
-
-
+    background-color:  lightcoral;
 }
+
+a:link, a:visited {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
